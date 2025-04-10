@@ -1,3 +1,4 @@
+//decoder design fie
 module decoder2_4(i,d);
 input [1:0]i;
 output [3:0]d;
