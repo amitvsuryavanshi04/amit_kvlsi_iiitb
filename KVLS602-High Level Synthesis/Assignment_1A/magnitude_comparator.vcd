@@ -1,0 +1,109 @@
+$date
+	Tue Apr 08 07:29:03 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module magnitude_comparator_tb $end
+$var wire 1 ! A_lt_B $end
+$var wire 1 " A_gt_B $end
+$var wire 1 # A_eq_B $end
+$var reg 4 $ A [3:0] $end
+$var reg 4 % B [3:0] $end
+$scope module uut $end
+$var wire 4 & A [3:0] $end
+$var wire 1 # A_eq_B $end
+$var wire 1 " A_gt_B $end
+$var wire 1 ! A_lt_B $end
+$var wire 4 ' B [3:0] $end
+$var wire 1 ( term1 $end
+$var wire 1 ) term2 $end
+$var wire 1 * term3 $end
+$var wire 1 + term4 $end
+$var wire 1 , term5 $end
+$var wire 1 - term6 $end
+$var wire 1 . term7 $end
+$var wire 1 / term8 $end
+$var wire 4 0 x [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b1111 0
+0/
+0.
+0-
+0,
+0+
+0*
+0)
+0(
+b0 '
+b0 &
+b0 %
+b0 $
+1#
+0"
+0!
+$end
+#10000
+0!
+0#
+0/
+1"
+b1100 0
+0(
+1*
+b1001 %
+b1001 '
+b1010 $
+b1010 &
+#20000
+1!
+1/
+0"
+0*
+b1110 0
+0)
+b111 %
+b111 '
+b110 $
+b110 &
+#30000
+0!
+1#
+0/
+0"
+b1111 0
+0(
+b1111 %
+b1111 '
+b1111 $
+b1111 &
+#40000
+0#
+1!
+1,
+b10 0
+b1000 %
+b1000 '
+b101 $
+b101 &
+#50000
+1"
+1)
+0!
+0,
+b1000 0
+b1011 %
+b1011 '
+b1100 $
+b1100 &
+#60000
