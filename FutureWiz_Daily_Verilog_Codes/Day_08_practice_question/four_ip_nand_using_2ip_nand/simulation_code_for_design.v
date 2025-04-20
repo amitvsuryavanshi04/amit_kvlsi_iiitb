@@ -35,7 +35,6 @@ module tb_design_file_four_ip_nand;
       #10; // wait for output to settle
       $display("%2t\t%b\t%b", $time, i, y);
     end
-
     $finish;
   end
 endmodule
