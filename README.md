@@ -69,4 +69,4 @@ Together, let's keep learning, building, and pushing the limits of what we can a
 
 ---
 
-# 🚀 Daily & Consistent improvements can only leads to success !!!
+# 🚀 Daily & Consistent improvements can only lead to success !!!
