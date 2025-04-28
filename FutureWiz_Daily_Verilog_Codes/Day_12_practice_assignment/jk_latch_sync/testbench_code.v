@@ -1,5 +1,3 @@
-// Code your testbench here
-// or browse Examples
 module tb_jk_latch_sync_reset;
     reg j, k, clk, reset;
     wire q;
