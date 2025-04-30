@@ -24,7 +24,7 @@ Each subject opened a new door into the VLSI universe. Feel free to explore them
 | 4. | [Functional Verification](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/tree/main/KVLS701-Functional%20Verification%20of%20SoCs) 🔎
 | 5. | [High-Level Synthesis](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/tree/main/KVLS602-High%20Level%20Synthesis) 🛠️
 | 6. | [Embedded Systems](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/tree/main/KVLS864-Embedded%20Systems%20Design) 📟
-| 7. | System Design using Verilog 🧠
+| 7. | [System Design using Verilog](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/tree/main/T2_24_25_system_design_using_verilog)🧠
 
 *(Click on any subject to dive deeper into my work!)*
 
