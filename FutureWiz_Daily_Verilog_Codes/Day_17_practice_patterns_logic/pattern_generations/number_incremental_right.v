@@ -7,7 +7,7 @@ module pattern_number_right #(parameter N = 4);  // N is the number of rows
         $write(" ");  // Print spaces
       end
       for (j = 1; j <= i; j = j + 1) begin
-        $write("*");  // Print stars
+        $write("%0d",j);  // Print stars
       end
       $display();
     end
