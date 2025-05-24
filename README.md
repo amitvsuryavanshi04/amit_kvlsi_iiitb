@@ -27,7 +27,7 @@ Each subject opened a new door into the VLSI universe. Feel free to explore them
 | 7. | [System Design using Verilog](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/tree/main/T2_24_25_system_design_using_verilog)🧠
 | 8. | [System Verilog by FutureWiz](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/tree/main/FutureWiz_System_Verilog)
 
-*(Click on any subject to dive deeper into my work!)*
+*(🖱️👆🏻Click on any subject to dive deeper into my work!👆🏻🖱️)*
 
 ---
 
