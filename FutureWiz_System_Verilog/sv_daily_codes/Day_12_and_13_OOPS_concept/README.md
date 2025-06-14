@@ -28,9 +28,19 @@ This folder currently includes **two core pillars** of OOP, with clean examples 
 📁 _Explore examples demonstrating virtual functions and handles in action._
 
 ---
+## 📌 3. Encapsulation 🔒
 
+> **Definition**: Encapsulation is the technique of **binding data (variables)** and the **methods (functions)** that operate on them within a class and restricting direct access to them.
+
+🔹 Protects **internal object state** using `local`, `protected`, and `public` keywords  
+🔹 Promotes **data hiding** and **clean and protected data exposure**  
+🔹 Improves **code robustness** and **security**
+
+📁 _See the example to learn how to restrict access and expose only necessary interfaces in SV classes._
+
+---
 🔧 **Coming Soon**:  
-- 🔐 **Encapsulation**  
+-  
 - 🧠 **Abstraction**  
 
 ---
@@ -41,7 +51,7 @@ This folder currently includes **two core pillars** of OOP, with clean examples 
 |----------------|--------------------------------------------------|--------------|
 | Inheritance     | Share features from base to derived classes      | ✅ Implemented |
 | Polymorphism    | Parent handles calling child methods             | ✅ Implemented |
-| Encapsulation   | Bind data and methods with access restrictions   | 🚧 In Progress |
+| Encapsulation   | Bind data and methods with access restrictions   | ✅ Implemented |
 | Abstraction     | Hiding internal details, showing only essentials | 🚧 In Progress |
 
 ---
