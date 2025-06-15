@@ -5,7 +5,7 @@
 Hey there! 👋  
 Welcome to my little corner of the VLSI world.
 
-I'm **Amit Suryavanshi**, a **PG Diploma Student at IIIT Bangalore** and currently a **trainee at FutureWiz** (part of **Truechip Solutions** family).  
+I'm **Amit Suryavanshi**, a **PG Diploma Student at IIIT Bangalore** and currently a **intern at FutureWiz** (part of **Truechip Solutions** family).  
 This repository is **not just a project folder** — it's a **living journal** of my learning journey through **VLSI design**, **verification**, and **embedded systems** 🚀.  
 
 🔗 **[Learn more about the KVLSI Program](https://kvlsi.iiitb.net/)**
