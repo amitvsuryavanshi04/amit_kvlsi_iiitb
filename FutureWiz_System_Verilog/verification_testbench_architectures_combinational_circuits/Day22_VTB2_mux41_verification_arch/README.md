@@ -1,6 +1,6 @@
 # MUX 4x1 Functional Verification (SystemVerilog)
 
-![MUX Verification Flow]()
+![MUX Verification Flow](https://github.com/amitvsuryavanshi04/amit_kvlsi_iiitb/blob/16be7f19a73761038e350f52172d2b0d57bee199/FutureWiz_System_Verilog/verification_testbench_architectures_combinational_circuits/Day22_VTB2_mux41_verification_arch/sv_verification.gif)
 
 This project demonstrates the functional verification of a 4x1 multiplexer using SystemVerilog. The testbench architecture is modular and built using basic OOP concepts without relying on UVM.
 
