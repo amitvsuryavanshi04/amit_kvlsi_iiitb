@@ -1,0 +1,101 @@
+$date
+	Tue Jul  8 17:37:36 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module fa_struct_test $end
+$var wire 1 ! sum $end
+$var wire 1 " cout $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % cin $end
+$scope module fa1 $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % cin $end
+$var wire 1 " cout $end
+$var wire 1 & sum1 $end
+$var wire 1 ! sum $end
+$var wire 1 ' carry2 $end
+$var wire 1 ( carry1 $end
+$scope module ha1 $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 ( carry $end
+$var wire 1 & sum $end
+$upscope $end
+$scope module ha2 $end
+$var wire 1 & a $end
+$var wire 1 % b $end
+$var wire 1 ' carry $end
+$var wire 1 ! sum $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#2
+1!
+1%
+#4
+1&
+0%
+1$
+#6
+0&
+1%
+0$
+#8
+1"
+0!
+1'
+1&
+1$
+#10
+0"
+1!
+0'
+0%
+0$
+1#
+#12
+1"
+0!
+1'
+1%
+#14
+0'
+0&
+1(
+0%
+1$
+#16
+1'
+1&
+0(
+1%
+0$
+#18
+1!
+0'
+0&
+1(
+1$
+#28
