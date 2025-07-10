@@ -8,8 +8,8 @@ module mod3_to_45_upcounter(count, clk, rst);
 
   always @(posedge clk) begin
     if (!rst)
-      temp <= 8'd3; //declare the lower value here 
-    else if (temp >= 8'd45)
+      temp <= 8'd3; //assign the lower value here 
+    else if (temp >= 8'd45) // assign the upper value 
       temp <= 8'd3;
     else
       temp <= temp + 1;
