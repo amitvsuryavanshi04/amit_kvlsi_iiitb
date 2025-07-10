@@ -10,9 +10,6 @@ module test_datatypes;
   time t;
   realtime rt;
 
-  // Assign dummy connection to wire to avoid warnings
-  //assign w = 1'bz;
-  //assign w_vector = 2'bzz;
 
   initial begin
     $display("------------------------------------------------------------");

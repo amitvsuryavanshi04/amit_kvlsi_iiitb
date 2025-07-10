@@ -1,0 +1,111 @@
+$date
+	Mon Jul  7 16:20:23 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tlatch_test $end
+$var wire 1 ! q $end
+$var reg 1 " clk $end
+$var reg 1 # rst_n $end
+$var reg 1 $ t $end
+$scope module dut $end
+$var wire 1 " clk $end
+$var wire 1 # rst_n $end
+$var wire 1 $ t $end
+$var reg 1 ! q $end
+$var reg 1 % temp $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0%
+0$
+0#
+0"
+0!
+$end
+#5000
+1"
+#10000
+0"
+#12000
+1#
+#15000
+1"
+#20000
+0"
+#22000
+1$
+#25000
+1!
+1%
+1"
+#30000
+0"
+#32000
+0$
+#35000
+1"
+#40000
+0"
+#42000
+1$
+#45000
+0!
+0%
+1"
+#50000
+0"
+#55000
+1!
+1%
+1"
+#60000
+0"
+#62000
+0$
+#65000
+1"
+#70000
+0"
+#72000
+1$
+#75000
+0!
+0%
+1"
+#80000
+0"
+#85000
+1!
+1%
+1"
+#90000
+0"
+#92000
+0$
+#95000
+1"
+#100000
+0"
+#105000
+1"
+#110000
+0"
+#115000
+1"
+#120000
+0"
+#125000
+1"
+#130000
+0"
+#132000
