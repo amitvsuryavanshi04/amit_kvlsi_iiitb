@@ -1,0 +1,88 @@
+$date
+	Thu Jul 10 19:30:30 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test_five $end
+$var reg 1 ! clk_in $end
+$var reg 1 " clk_out $end
+$var integer 32 # count [31:0] $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 #
+0"
+0!
+$end
+#5
+b1 #
+1!
+#10
+b10 #
+0!
+#15
+b11 #
+1!
+#20
+b100 #
+0!
+#25
+1"
+b0 #
+1!
+#30
+b1 #
+0!
+#35
+b10 #
+1!
+#40
+b11 #
+0!
+#45
+b100 #
+1!
+#50
+0"
+b0 #
+0!
+#55
+b1 #
+1!
+#60
+b10 #
+0!
+#65
+b11 #
+1!
+#70
+b100 #
+0!
+#75
+1"
+b0 #
+1!
+#80
+b1 #
+0!
+#85
+b10 #
+1!
+#90
+b11 #
+0!
+#95
+b100 #
+1!
+#100
+0"
+b0 #
+0!
