@@ -72,6 +72,13 @@ This repository documents my daily progress in learning and implementing SystemV
 
 ---
 
+### ✅ Coverage
+- **Day 29:** `Day_29_threads_in_sv_fork_blocks`  
+  _Fork join , fork...join_any and fork....join_none._
+
+---
+
+
 ## 📌 Notes
 - Each day focuses on a new concept in SystemVerilog.
 - Testbenches and simulations were verified using ModelSim/Vivado/VCS.
