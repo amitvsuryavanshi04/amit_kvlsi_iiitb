@@ -78,6 +78,29 @@ This repository documents my daily progress in learning and implementing SystemV
 
 ---
 
+### ✅ Coverage
+- **Day 30:** `Day_30_streaming_operator_eg`  
+  _Examples on streaming operator in system verilog which is used to pack an unpacked array or unpack a packed array _
+
+---
+
+### ✅ Coverage
+- **Day 31:** `Day_31_functions_in_sv`  
+  _Functions in System Verilog explained with examples._
+
+---
+
+### ✅ Coverage
+- **Day 33:** `Day_33_rev_classes`  
+  _Revision of Classes and OOPs in system verilog._
+
+---
+
+### ✅ Coverage
+- **Day 34:** `Day_34_`  
+  _._
+
+---
 
 ## 📌 Notes
 - Each day focuses on a new concept in SystemVerilog.
