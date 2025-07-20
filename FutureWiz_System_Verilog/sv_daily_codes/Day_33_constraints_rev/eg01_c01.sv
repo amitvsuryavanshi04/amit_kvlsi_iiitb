@@ -2,6 +2,7 @@
 //randomize function in system verilog , and then use the pre and post randomize
 //callback methods as well to make the code more relible and extra refined
 // Code design written below 
+//Question 01 	
 class A;
   rand int value ;
   rand int data;
