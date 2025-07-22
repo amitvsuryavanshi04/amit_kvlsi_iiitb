@@ -1,11 +1,11 @@
 # HDL Bits Problem Solutions 🧠💡
 
-This repository contains my personal solutions to selected problems from [HDL Bits](https://hdlbits.01xz.net/wiki/Main_Page) — a widely-used platform for learning and practicing Verilog through hands-on problem solving. It's often referred to as the *LeetCode of Digital Electronics*.
+This repository contains my personal solutions to selected problems from [Click here to view my HDL Bits profile](https://bit.ly/amit_hdl_bits) — a widely-used platform for learning and practicing Verilog through hands-on problem solving. It's often referred to as the *LeetCode of Digital Electronics*.
 
 Currently, I'm focusing on the following sections:
 
 - `01_getting_started/`
-- `02_verilog_language/01_basics/`
+- `02_verilog_language/`
 
 ---
 
