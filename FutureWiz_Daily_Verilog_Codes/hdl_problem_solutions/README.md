@@ -5,7 +5,8 @@ This repository contains my personal solutions to selected problems from [Click 
 Currently, I'm focusing on the following sections:
 
 - `01_getting_started/`
-- `02_verilog_language/`
+- `02_verilog_language/01_basics`
+- `02_verilog_language/02_vectors`
 
 ---
 
